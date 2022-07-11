@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Cypress Testing on React JS App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## There is big pros of Cypress
+``Syncronization Issues handling automatically``
+
+<img src="https://github.com/YasinDeger48/Cypress_Testing/blob/master/synchronization%20issue.gif" width="750" height="480">
 
 ## Available Scripts
 
